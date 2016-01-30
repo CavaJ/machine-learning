@@ -1,0 +1,11 @@
+1 root F13 2 3
+2  no  F11 4 5
+3  yes 
+4  no  
+5  yes F16 6 7
+6  no  F19 8 9
+7  yes 
+8  no  F6 10 11
+9  yes 
+10  no  F5 12 13
+11  yes 
